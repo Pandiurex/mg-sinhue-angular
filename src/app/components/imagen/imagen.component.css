@@ -1,0 +1,18 @@
+.black-label {
+  text-align: center;
+  color: black;
+
+}
+
+.black-label h5 {
+  font-size: 20px;
+}
+
+.black-label img{
+  width: 70%;
+  height: auto;
+}
+
+.space {
+  padding: 10% 0;
+}

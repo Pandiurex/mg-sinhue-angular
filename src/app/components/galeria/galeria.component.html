@@ -1,0 +1,12 @@
+<div class="container">
+
+    <div class="card-columns m-5 animated fadeIn black-label size">
+        <div (click)="verImagen(img)" class="card puntero" *ngFor="let img of imagen">
+            <a routerLink="{{img}}" >
+                <img src="assets/img/mgsinhue{{img}}.jpg" class="card-img-top" alt="...">
+            </a>
+            <div class="card-body">
+                <h5 class="card-title">Mago Sinhue {{img}}</h5>
+            </div>
+        </div>
+    </div>

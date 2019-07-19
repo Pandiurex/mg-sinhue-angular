@@ -1,0 +1,16 @@
+.black-label{
+    text-align: center;
+    color: black;
+}
+.black-label h5{
+     font-size: 20px;
+}
+
+.puntero{
+    cursor: pointer;
+}
+
+.size{
+    width: auto;
+    height: 80%;
+}

@@ -1,0 +1,11 @@
+.space {
+    flex: 1;
+}
+.text-font{
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-size: 24px;
+}
+.text-font img{
+    padding-right: 10px;
+}
